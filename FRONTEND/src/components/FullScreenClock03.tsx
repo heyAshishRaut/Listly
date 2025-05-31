@@ -52,6 +52,7 @@ function FullScreenClock03() {
         const interval = setInterval(updateTime, 1000);
         return () => clearInterval(interval);
     }, []);
+    // updated
 
     return (
         <div className="relative z-0">
