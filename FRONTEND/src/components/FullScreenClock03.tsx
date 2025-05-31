@@ -56,7 +56,7 @@ function FullScreenClock03() {
     return (
         <div className="relative z-0">
             {visible && (
-                <div className="absolute bottom-5 left-5 z-50">
+                <div className="absolute bottom-5 left-5 z-[9999]">
                     <div className="flex gap-x-4 items-center">
                         <button onClick={() => nav03("/dashboard")} className="flex gap-x-1">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="white" className="size-6">
