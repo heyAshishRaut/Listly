@@ -54,7 +54,7 @@ function FullScreenClock03() {
     }, []);
 
     return (
-        <div>
+        <div className="relative z-0">
             {visible && (
                 <div className="absolute bottom-5 left-5 z-50">
                     <div className="flex gap-x-4 items-center">
