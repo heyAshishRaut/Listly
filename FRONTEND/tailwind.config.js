@@ -8,10 +8,8 @@ export default {
         extend: {
             fontFamily: {
                 gambarino: ['"Gambarino"', 'serif'],
-                amulya: ['"Amulya"', 'sans-serif'],
-                satoshi: ['"Satoshi"', 'sans-serif'],
-                supreme: ['"Supreme"', 'sans-serif'],
-              },
+                poppins: ['Poppins', 'sans-serif'],
+            },
         },
     },
     plugins: [],
