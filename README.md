@@ -37,7 +37,6 @@
 
 ## 📸 Screenshots
 
-> You can embed screenshots like this:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a88f5a4-196e-4a08-803d-d42daec7a29a" />
 
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/9aa102e6-a634-49a6-909a-0269dfeb80a2" />
